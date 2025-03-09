@@ -63,7 +63,7 @@ O projeto foi concluído com sucesso, e os modelos foram capazes de prever a qua
 
 ## Estrutura do Repositório
 
-- **notebooks/**: Contém o notebook Python com todo o código, análises e visualizações.
+- **analise.ipynb**: arquivo do notebook
 - **data/**: Armazena os arquivos do dataset (`winequality-red.csv` e `winequality-white.csv`).
 - **README.md**: Este arquivo, com a documentação do projeto.
 
@@ -77,7 +77,6 @@ O projeto foi concluído com sucesso, e os modelos foram capazes de prever a qua
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-3. Execute o notebook Jupyter localizado na pasta `notebooks/` para reproduzir as análises e resultados.
 
 ## Recursos Utilizados
 
